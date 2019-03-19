@@ -1,0 +1,6 @@
+C:\Users\David\source\repos\ConsoleApp1\ClassLibraryRepo\bin\Debug\ClassLibraryRepo.dll
+C:\Users\David\source\repos\ConsoleApp1\ClassLibraryRepo\bin\Debug\ClassLibraryRepo.pdb
+C:\Users\David\source\repos\ConsoleApp1\ClassLibraryRepo\obj\Debug\Repo.csprojAssemblyReference.cache
+C:\Users\David\source\repos\ConsoleApp1\ClassLibraryRepo\obj\Debug\Repo.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\ConsoleApp1\ClassLibraryRepo\obj\Debug\ClassLibraryRepo.dll
+C:\Users\David\source\repos\ConsoleApp1\ClassLibraryRepo\obj\Debug\ClassLibraryRepo.pdb
